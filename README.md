@@ -64,6 +64,7 @@ michael = {
 | [🔐 nist-compliance-checker](https://github.com/mrnwaiwu/nist-compliance-checker) | Auto-checks systems against NIST SP 800-53 controls, outputs a pass/fail report | Python · JSON |
 | [📊 security-report-bot](https://github.com/mrnwaiwu/security-report-bot) | Reads security findings and generates a formatted PDF assessment report | Python · fpdf2 |
 | [🌐 securedash](https://github.com/mrnwaiwu/securedash) | Full-stack Flask dashboard showing open findings, severity counts & alerts | Flask · HTML/CSS |
+| [🔗 url-shortener](https://github.com/mrnwaiwu/url-shortener) | High-performance URL shortener with Redis backend, QR codes, and rate limiting | FastAPI · Redis |
 
 ---
 
