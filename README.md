@@ -65,6 +65,7 @@ michael = {
 | [📊 security-report-bot](https://github.com/mrnwaiwu/security-report-bot) | Reads security findings and generates a formatted PDF assessment report | Python · fpdf2 |
 | [🌐 securedash](https://github.com/mrnwaiwu/securedash) | Full-stack Flask dashboard showing open findings, severity counts & alerts | Flask · HTML/CSS |
 | [🔗 url-shortener](https://github.com/mrnwaiwu/url-shortener) | High-performance URL shortener with Redis backend, QR codes, and rate limiting | FastAPI · Redis |
+| [☸️ k8s-security-policies](https://github.com/mrnwaiwu/k8s-security-policies) | Kubernetes security policies: OPA Gatekeeper constraints, NetworkPolicies, RBAC | Kubernetes · OPA |
 
 ---
 
