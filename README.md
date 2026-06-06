@@ -66,6 +66,8 @@ michael = {
 | [🌐 securedash](https://github.com/mrnwaiwu/securedash) | Full-stack Flask dashboard showing open findings, severity counts & alerts | Flask · HTML/CSS |
 | [🔗 url-shortener](https://github.com/mrnwaiwu/url-shortener) | High-performance URL shortener with Redis backend, QR codes, and rate limiting | FastAPI · Redis |
 | [☸️ k8s-security-policies](https://github.com/mrnwaiwu/k8s-security-policies) | Kubernetes security policies: OPA Gatekeeper constraints, NetworkPolicies, RBAC | Kubernetes · OPA |
+| [🛡️ aws-security-hardener](https://github.com/mrnwaiwu/aws-security-hardener) | Automated AWS CIS benchmark checks with auto-remediation for IAM, S3, and EC2 | Python · Boto3 |
+| [⚙️ devsecops-pipeline](https://github.com/mrnwaiwu/devsecops-pipeline) | CI/CD pipeline with integrated SAST, dependency scanning, and secrets detection | Python · GitHub Actions |
 
 ---
 
