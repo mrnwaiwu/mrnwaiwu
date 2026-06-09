@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5FA8D3&center=true&vCenter=true&width=600&lines=Security+Engineer+%7C+AI+Builder;Cloud+Security+%7C+AWS+Architect;CISM+%7C+CISA+%7C+CompTIA+Security%2B;Turning+logs+into+intelligence.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5FA8D3&center=true&vCenter=true&width=600&lines=Security+Engineer+%7C+AI+Builder;Cloud+Security+%7C+AWS+Architect;CISM+%7C+CISA+%7C+CompTIA+Security%2B;DevSecOps+%7C+Kubernetes+Security;Turning+logs+into+intelligence.)](https://git.io/typing-svg)
 
 </div>
 
@@ -39,6 +39,7 @@ michael = {
 ![IAM](https://img.shields.io/badge/IAM-Security-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![NIST](https://img.shields.io/badge/NIST-SP800--53-1F3864?style=for-the-badge)
 ![HIPAA](https://img.shields.io/badge/HIPAA-Compliant-blue?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 **Languages & Tools**
 
@@ -98,5 +99,5 @@ michael = {
 ---
 
 <div align="center">
-<sub>⚡ Securing systems. Building intelligent tools. One commit at a time.</sub>
+<sub>⚡ Securing systems. Building intelligent tools. One commit at a time. — Last updated 2026-06-09</sub>
 </div>
