@@ -26,7 +26,23 @@ michael = {
     "frameworks"  : ["NIST SP 800-53", "HIPAA/HITECH", "PCI DSS", "ISO 27001", "GDPR"],
     "clearance"   : "US Citizen — eligible for any level",
     "currently"   : "Building AI-powered security tooling",
+    "exploring"   : ["Zero Trust Architecture", "AI Red Teaming", "SBOM Automation"],
 }
+```
+
+---
+
+## 🔒 Security Focus Areas
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  Cloud Security        │  AI/ML Security      │  Compliance     │
+│  ─────────────────     │  ───────────────      │  ──────────     │
+│  AWS IAM hardening     │  LLM threat modeling  │  NIST 800-53   │
+│  S3 / EC2 CIS checks   │  Prompt injection     │  HIPAA/HITECH  │
+│  GuardDuty automation  │  AI log analysis      │  OSCAL mapping │
+│  VPC security groups   │  Model risk scoring   │  SOC 2 Type II │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 ---
