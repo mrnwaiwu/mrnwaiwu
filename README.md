@@ -1,22 +1,23 @@
-# mrnwaiwu
+# Mike
 
-Security engineer and developer focused on DevSecOps, infrastructure security, and threat detection.
+Security engineer focused on cloud infrastructure, compliance automation, and DevSecOps.
 
-## 🔥 Contribution Streak
-![Streak](https://img.shields.io/badge/streak-active-brightgreen) Updated: 2026-08-09
+## Core Interests
+- **Cloud Security** — AWS security hardening, K8s pod security, audit compliance
+- **Incident Response** — Threat triage automation, runbook orchestration
+- **Compliance** — NIST 800-53, HIPAA controls, CIS benchmarks
+- **DevSecOps** — Pipeline security, container scanning, infrastructure-as-code policy
 
-## Focus Areas
-- Kubernetes security & policy enforcement
-- AWS security hardening & compliance
-- DevSecOps pipeline automation
-- Security incident response
-- Threat intelligence & AI-driven triage
+## Active Projects
+- 🔒 **aws-security-hardener** — Automated AWS CIS compliance checks and remediations
+- ☸️ **k8s-security-policies** — Gatekeeper policies, RBAC templates, network policies
+- 📋 **nist-compliance-checker** — NIST control mapping and evidence collection
+- 🚨 **ai-threat-triage** — LLM-powered security alert classification and routing
+- 🔐 **hipaa-risk-scanner** — HIPAA compliance validator for healthcare data flows
+- 🤖 **ir-runbook-bot** — Automated incident response playbook execution
 
-## Notable Projects
-- **k8s-security-policies**: Gatekeeper constraints and RBAC configs
-- **aws-security-hardener**: CIS benchmark checks & auto-remediation
-- **devsecops-pipeline**: CI/CD security scanning
-- **ir-runbook-bot**: Automated incident response workflows
+## Tech Stack
+`Python` `Go` `Bash` | `AWS` `Kubernetes` | `Terraform` `Helm` | `GitHub Actions` `ArgoCD`
 
 ---
-Last updated: 2026-08-09
+📊 Maintaining a daily contribution streak across 14+ security-focused repositories.
